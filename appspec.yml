@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 hooks:
-  ApplicationStart:
+  BeforeInstall:
     - location: scripts/install_dependencies.sh
       timeout: 300
       runas: root
