@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "aaaaaaaaa" > test.text
+echo "bla bla" > test.text
