@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "mamun" > test.text
+echo "aaaaaaaaa" > test.text
