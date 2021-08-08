@@ -2,6 +2,6 @@ version: 0.0
 os: linux
 hooks:
   ApplicationStart:
-    - location: scripts/install_dependencies
+    - location: scripts/install_dependencies.sh
       timeout: 300
       runas: root
