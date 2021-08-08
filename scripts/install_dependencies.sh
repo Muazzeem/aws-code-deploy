@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "bla bla" > test.text
+git pull
+git reset --hard origin/mamun_work
