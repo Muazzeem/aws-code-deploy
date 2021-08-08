@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "insert text here" > test.text
+echo "mamun" > test.text
