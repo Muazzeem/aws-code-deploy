@@ -4,11 +4,6 @@ files:
   - source: /
     destination: /var/www/aws-code-deploy
 hooks:
-  Install:
-    - location: install.sh
-      timeout: 300
-      runas: root
-
   AfterInstall:
     - location: createfile.sh
       timeout: 300

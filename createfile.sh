@@ -1,2 +1,3 @@
 #!/bin/sh
-touch sampletouchfile.txt
+cd /var/www/aws-code-deploy
+sudo touch sampletouchfile.txt
