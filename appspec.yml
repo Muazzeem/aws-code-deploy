@@ -3,3 +3,8 @@ os: linux
 files:
   - source: /
     destination: /var/www/aws-code-deploy
+hooks:
+  Install:
+    - location: docker-install.sh
+      timeout: 300
+      runas: root
