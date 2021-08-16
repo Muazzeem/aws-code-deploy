@@ -1,1 +1,1 @@
-# aws-code-deploy bla bla 
+# aws-code-deploy
